@@ -1,0 +1,9 @@
+Package: me.ikghd.htapps
+Name: HideThirdApps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: HIde Appstore Third Party Apps From Settings!
+Maintainer: iKarwan
+Author: iKarwan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 14.0)
